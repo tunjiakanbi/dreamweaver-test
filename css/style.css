@@ -1,0 +1,15 @@
+/* Scss Document */
+*, body, html {
+  margin: 0;
+  paddding: 0; }
+
+body {
+  background: #000; }
+  body #content-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center; }
+    body #content-wrapper h1 {
+      align-self: center;
+      color: #fff; }
